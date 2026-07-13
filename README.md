@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
--  [Hello World!](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md))
+-  [Hello World!](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
 
 - <h2>Certifications</h2>
 
