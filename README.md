@@ -4,9 +4,8 @@
 
 - [Hello World!](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
 - [Active Directory Home Lab](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
-- [Linux-bash-file-navigation]
+- [Linux-bash-file-navigation](https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main)
   
-
 - <h2>Certifications</h2>
 
 - [Google IT Professional](https://coursera.org/share/6a317363ae62d715b3eedee1500bad36)
