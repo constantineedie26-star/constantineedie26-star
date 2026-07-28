@@ -5,6 +5,7 @@
 - [Hello World!](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
 - [Active Directory Home Lab](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
 - [Linux-bash-file-navigation](https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main)
+- [Linux-bash-file-navigation](https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main)
   
 - <h2>Certifications</h2>
 
