@@ -10,6 +10,7 @@
 - [Linux File Search Containing Specific Strings and Content Analysis Using Bash](https://github.com/constantineedie26-star/-Linux-File-Search-Containing-Specific-Strings-And-Content-Analysis-Using-Bash)
 - [Linux-User-And-Group-Management](https://github.com/constantineedie26-star/linux-User-And-Group-Management/tree/main)
 - [MariaDB-SQL-Investigation-Lab-Employee-Login-Activity-Analysis](https://github.com/constantineedie26-star/MariaDB-SQL-Investigation-Lab-Employee-Login-Activity-Analysis/tree/main)
+- (https://github.com/constantineedie26-star/SQL-Database-Investigation-with-MariaDB-Shell/tree/main)
   
 
 - <h2>Certifications</h2>
