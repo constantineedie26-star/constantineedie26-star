@@ -20,6 +20,9 @@
 
 - [Google IT Professional](https://coursera.org/share/6a317363ae62d715b3eedee1500bad36)
 - [Google Cybersecurity Professional](https://coursera.org/share/e18d75baf1367f0e3970b6ced2869132)
+- [Linux And SQL professional](https://coursera.org/share/f98708c1076cacfe65beb80bd943094b)
+- [Networks And Network Security Professional](https://coursera.org/share/9e37ab7da56b2a8b5ba3de51bf2a4b1b)
+- [Manage Security Risks](https://coursera.org/share/4079d7fab614cc813a7afc4cae09ed5e)
  
 <h2>📺 Popular YouTube Videos</h2>
 
