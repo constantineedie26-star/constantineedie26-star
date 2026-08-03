@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Hello World!](https://github.com/constantineedie26-star/Active-Directory-Lab/blob/main/README.md)
 - [Linux-Bash-File-Navigation](https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main)
 - [Linux Log Files Analysis Using Bash](https://github.com/constantineedie26-star/Linux-Log-File-Analysis-Using-Bash/tree/main)
 - [Linux Log Analysis Using grep](https://github.com/constantineedie26-star/Linux-Log-Analysis-Using-grep-/blob/main/README.md)
