@@ -22,15 +22,14 @@
 - [Linux And SQL professional](https://coursera.org/share/f98708c1076cacfe65beb80bd943094b)
 - [Networks And Network Security Professional](https://coursera.org/share/9e37ab7da56b2a8b5ba3de51bf2a4b1b)
 - [Manage Security Risks](https://coursera.org/share/4079d7fab614cc813a7afc4cae09ed5e)
- 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
-<h2> 🤳 Connect with me:</h2>
 
 
 
 
+## 📫 Let's Connect
 
+<p align="left">
+<a href="https://www.linkedin.com/feed/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
