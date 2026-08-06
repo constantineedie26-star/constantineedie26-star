@@ -1,4 +1,4 @@
-# Hi, I'm Edie Constantine
+# Hi, I'm Edie
 <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Guest Relations Specialist with a passion for technology, a curiosity for cybersecurity, and a commitment to solving complex problems through analytical thinking and continuous learning.
