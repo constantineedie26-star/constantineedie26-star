@@ -64,18 +64,29 @@ My journey in computer science has led me to be driven by passion for cybersecur
 </div>
 
 
+## Certifications
+<div>
+<a href="https://coursera.org/share/6a317363ae62d715b3eedee1500bad36" target="_blank">
+  <img src="https://img.shields.io/badge/Google_IT_Support-Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional Certificate"/>
+</a>
+<a href="https://coursera.org/share/e18d75baf1367f0e3970b6ced2869132" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-View_Certificate-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate"/>
+</a>
+<a href="https://coursera.org/share/f98708c1076cacfe65beb80bd943094b" target="_blank">
+  <img src="https://img.shields.io/badge/Linux_%26_SQL-Certificate-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux & SQL Certificate"/>
+</a>
+<a href="https://coursera.org/share/9e37ab7da56b2a8b5ba3de51bf2a4b1b" target="_blank">
+  <img src="https://img.shields.io/badge/Networks_%26_Network_Security-Certificate-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks & Network Security Certificate"/>
+</a>
+<a href="https://coursera.org/share/4079d7fab614cc813a7afc4cae09ed5e" target="_blank">
+  <img src="https://img.shields.io/badge/Manage_Security_Risks-Certificate-D32F2F?style=for-the-badge&logo=shield&logoColor=white" alt="Manage Security Risks Certificate"/>
+</a>
+</div>
 
 
-
-
-- <h2>Certifications</h2>
-
-- [Google IT Professional](https://coursera.org/share/6a317363ae62d715b3eedee1500bad36)
-- [Google Cybersecurity Professional](https://coursera.org/share/e18d75baf1367f0e3970b6ced2869132)
-- [Linux And SQL professional](https://coursera.org/share/f98708c1076cacfe65beb80bd943094b)
-- [Networks And Network Security Professional](https://coursera.org/share/9e37ab7da56b2a8b5ba3de51bf2a4b1b)
-- [Manage Security Risks](https://coursera.org/share/4079d7fab614cc813a7afc4cae09ed5e)
-
+## Projects
+- Detection Lab
+- SOC Automation Project
 
 
 
