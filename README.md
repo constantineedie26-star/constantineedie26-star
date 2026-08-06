@@ -5,33 +5,41 @@ I am a Guest Relations Specialist with a passion for technology, a curiosity for
 
 ## Objective
 My journey in computer science has led me to be driven by passion for cybersecurity.I'm building the technical expertise and hands-on experience to launch my career as a Tier 1 SOC Analyst and contribute to defending organizations against evolving cyber threats.
-<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Linux-Bash-File-Navigation](https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main)
-- [Linux Log Files Analysis Using Bash](https://github.com/constantineedie26-star/Linux-Log-File-Analysis-Using-Bash/tree/main)
-- [Linux Log Analysis Using grep](https://github.com/constantineedie26-star/Linux-Log-Analysis-Using-grep-/blob/main/README.md)
-- [Linux File Search Containing Specific Strings and Content Analysis Using Bash](https://github.com/constantineedie26-star/-Linux-File-Search-Containing-Specific-Strings-And-Content-Analysis-Using-Bash)
-- [Linux-User-And-Group-Management](https://github.com/constantineedie26-star/linux-User-And-Group-Management/tree/main)
-- [MariaDB-SQL-Investigation-Lab-Employee-Login-Activity-Analysis](https://github.com/constantineedie26-star/MariaDB-SQL-Investigation-Lab-Employee-Login-Activity-Analysis/tree/main)
-- [SQL-Database-Investigation-with-MariaDB-Shell](https://github.com/constantineedie26-star/SQL-Database-Investigation-with-MariaDB-Shell/tree/main)
-- [SQL-Investigation-Lab-Retrieving-and-Filtering-Login-Attempts-with-MariaDB-Shell](https://github.com/constantineedie26-star/SQL-Investigation-Lab-Retrieving-and-Filtering-Login-Attempts-with-MariaDB-Shell/tree/main)
-- [SQL-Log-Investigation-Project-Using-MariaDB](https://github.com/constantineedie26-star/SQL-Log-Investigation-Project-Using-MariaDB/tree/main)
 
-  
-
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="">Coming Soon</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="">Coming Soon</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="">Coming Soon</a>|
+| Incident Response Planning and Execution      | <a href="">Coming Soon</a>|
+| Case Management with TheHive                  | <a href="">Coming Soon</a>|
+| Scripting and Automation for Threat Mitigation | <a href="">Coming Soon</a>|
 
 | Linux File Recovery & Caesar Cipher Decryption | <a href="https://github.com/constantineedie26-star/-Linux-File-Recovery-Caesar-Cipher-Decryption/blob/main/README.md">File Recovery Lab</a>|
 
-|SQL Joins for Cybersecurity Investigation |<a href="https://github.com/constantineedie26-star/SQL-Joins-for-Cybersecurity-Investigations">Sql Joins investigation Lab</a>|
+| SQL Joins for Cybersecurity Investigation |<a href="https://github.com/constantineedie26-star/SQL-Joins-for-Cybersecurity-Investigations">Sql Joins investigation Lab</a>|
+
+| SQL-Log-Investigation-Project-Using-MariaDB |<a href="https://github.com/constantineedie26-star/SQL-Log-Investigation-Project-Using-MariaDB/tree/main">log investigation lab</a>|
+
+| SQL-Investigation-Lab-Retrieving-and-Filtering-Login-Attempts-with-MariaDB-Shell | <a href="https://github.com/constantineedie26-star/SQL-Investigation-Lab-Retrieving-and-Filtering-Login-Attempts-with-MariaDB-Shell/tree/main">Retrieving-and-Filtering lab</a>|
+
+| SQL-Database-Investigation-with-MariaDB-Shell |<a href="https://github.com/constantineedie26-star/SQL-Database-Investigation-with-MariaDB-Shell/tree/main">Database-Investigation lab</a>|
+
+| MariaDB-SQL-Investigation-Lab-Employee-Login-Activity-Analysis |<a href="https://github.com/constantineedie26-star/MariaDB-SQL-Investigation-Lab-Employee-Login-Activity-Analysis/tree/main">Login Analysis lab</a>|
+
+| Linux-User-And-Group-Management |<a href="https://github.com/constantineedie26-star/linux-User-And-Group-Management/tree/main">User and Group lab</a>|
+
+| Linux File Search Containing Specific Strings and Content Analysis Using Bash |<a href="https://github.com/constantineedie26-star/-Linux-File-Search-Containing-Specific-Strings-And-Content-Analysis-Using-Bash">Strings and Content Analysis lab</a>|
+
+| Linux Log Analysis Using grep |<a href="https://github.com/constantineedie26-star/Linux-Log-Analysis-Using-grep-/blob/main/README.md">Log Analysis grep lab</a>|
+ 
+| Linux Log Files Analysis Using Bash |<a href="https://github.com/constantineedie26-star/Linux-Log-File-Analysis-Using-Bash/tree/main">Log Analysis Bash lab</a>|
+
+| Linux-Bash-File-Navigation |<a href="https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main">File Navigation lab</a>|
+
 
 ## Tools
 
