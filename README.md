@@ -1,10 +1,10 @@
-# Hello, I'm Edie
+# Hi, I'm Edie Constantine
 <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Guest Relation Specialist with a profound interest in technology and a dedication to solving complex problems.
+I am a Guest Relations Specialist with a passion for technology, a curiosity for cybersecurity, and a commitment to solving complex problems through analytical thinking and continuous learning.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to be driven by passion for cybersecurity.I'm building the technical expertise and hands-on experience to launch my career as a Tier 1 SOC Analyst and contribute to defending organizations against evolving cyber threats.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Linux-Bash-File-Navigation](https://github.com/constantineedie26-star/Linux-bash-file-navigation/tree/main)
