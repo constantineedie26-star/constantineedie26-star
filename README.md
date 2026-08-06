@@ -85,8 +85,8 @@ My journey in computer science has led me to be driven by passion for cybersecur
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Detection Lab (Coming Soon)
+- SOC Automation Project (Coming Soon)
 
 
 
