@@ -16,8 +16,7 @@ My journey in computer science has led me to be driven by passion for cybersecur
 - [SQL-Database-Investigation-with-MariaDB-Shell](https://github.com/constantineedie26-star/SQL-Database-Investigation-with-MariaDB-Shell/tree/main)
 - [SQL-Investigation-Lab-Retrieving-and-Filtering-Login-Attempts-with-MariaDB-Shell](https://github.com/constantineedie26-star/SQL-Investigation-Lab-Retrieving-and-Filtering-Login-Attempts-with-MariaDB-Shell/tree/main)
 - [SQL-Log-Investigation-Project-Using-MariaDB](https://github.com/constantineedie26-star/SQL-Log-Investigation-Project-Using-MariaDB/tree/main)
-- [SQL Joins for Cybersecurity Investigations](https://github.com/constantineedie26-star/SQL-Joins-for-Cybersecurity-Investigations)
-- [Linux File Recovery & Caesar Cipher Decryption](https://github.com/constantineedie26-star/-Linux-File-Recovery-Caesar-Cipher-Decryption/blob/main/README.md)
+
   
 
 
