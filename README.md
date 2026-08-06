@@ -11,6 +11,7 @@ My journey in computer science has led me to be driven by passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|SOC Analysis,Threat Hunting and Detection      |<a href="">MYDFIR Forge Email Investigation</a>|
 | SIEM Implementation and Log Analysis          | <a href="">Coming Soon</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="">Coming Soon</a>|
 | Security Automation with Shuffle SOAR         | <a href="">Coming Soon</a>|
