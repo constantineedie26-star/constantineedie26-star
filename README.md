@@ -11,7 +11,7 @@ My journey in computer science has led me to be driven by passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|SOC Analysis,Threat Hunting and Detection      |<a href="">MYDFIR Forge Email Phising Investigation</a>|
+|SOC Analysis,Threat Hunting and Detection      |<a href="https://github.com/constantineedie26-star/The-Planet-s-Prestige-Phishing-Email-Investigation/blob/main/README.md">MYDFIR Forge Email Phising Investigation</a>|
 | SIEM Implementation and Log Analysis          | <a href="">Coming Soon</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="">Coming Soon</a>|
 | Security Automation with Shuffle SOAR         | <a href="">Coming Soon</a>|
